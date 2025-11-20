@@ -44,7 +44,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YoRzHe-HotaaRu/ervie-anxiety-support.git
+   git clone https://github.com/YoRzHe-HotaaRu/evie-v1.git
    cd ervie-anxiety-support
    ```
 
