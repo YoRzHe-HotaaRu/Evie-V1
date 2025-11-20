@@ -1,0 +1,7 @@
+{
+  "name": "ErvieV1 - Anxiety Support",
+  "description": "An immediate anxiety support companion offering text chat and real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
